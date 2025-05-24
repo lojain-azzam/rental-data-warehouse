@@ -60,5 +60,5 @@ Includes insights like:
 ## 📬 Contact
 
 Feel free to reach out with questions or feedback!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/YOUR-USERNAME/](https://www.linkedin.com/in/lojain-banishamsa-1b1455260))
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lojain-banishamsa-1b1455260/)
 
